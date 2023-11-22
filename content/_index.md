@@ -1,23 +1,12 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: ""
+description: ""
 ---
 
-This is a demo site built entirely using Blowfish. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Blowfish is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
+{{< lead >}}
+AGI is about to change the world in ways we are just not prepared for. Even the best and brightest computer and neuroscientists disagree on how we can give birth to Artificial General Intelligence without dooming the Human race.
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
+This website contains breakdowns of these arguments, glossaries and articles explaining the strange concepts you need to understand to navigate the fourth industrial revolution (4IR). It's my goal as an AI researcher to democratize these concepts into words that people can understand without having an 8 years degree in AI.
 
-Explore the [sample pages]({{< ref "samples" >}}) to get a feel for what Blowfish can do. If you like what you see, check out the project on <a target="_blank" href="https://github.com/nunocoracao/blowfish">Github</a> or read the [Installation guide]({{< ref "docs/installation" >}}) to get started.
+Mark Tellez
+{{< /lead >}}
