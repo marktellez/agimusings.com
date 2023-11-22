@@ -1,0 +1,17 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "AGI Musings"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+#  logo = "img/bg.webp"
+  # secondaryLogo = "PATH"
+  description = "The AGI Musings and Experiments of Mark Tellez"
+  copyright = "Copyright 2023"
+
+
+  
